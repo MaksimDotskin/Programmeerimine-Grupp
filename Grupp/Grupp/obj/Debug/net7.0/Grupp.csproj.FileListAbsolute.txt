@@ -1,0 +1,15 @@
+/Users/maksimdockin/Projects/Grupp/Grupp/bin/Debug/net7.0/Grupp
+/Users/maksimdockin/Projects/Grupp/Grupp/bin/Debug/net7.0/Grupp.deps.json
+/Users/maksimdockin/Projects/Grupp/Grupp/bin/Debug/net7.0/Grupp.runtimeconfig.json
+/Users/maksimdockin/Projects/Grupp/Grupp/bin/Debug/net7.0/Grupp.dll
+/Users/maksimdockin/Projects/Grupp/Grupp/bin/Debug/net7.0/Grupp.pdb
+/Users/maksimdockin/Projects/Grupp/Grupp/obj/Debug/net7.0/Grupp.csproj.AssemblyReference.cache
+/Users/maksimdockin/Projects/Grupp/Grupp/obj/Debug/net7.0/Grupp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksimdockin/Projects/Grupp/Grupp/obj/Debug/net7.0/Grupp.AssemblyInfoInputs.cache
+/Users/maksimdockin/Projects/Grupp/Grupp/obj/Debug/net7.0/Grupp.AssemblyInfo.cs
+/Users/maksimdockin/Projects/Grupp/Grupp/obj/Debug/net7.0/Grupp.csproj.CoreCompileInputs.cache
+/Users/maksimdockin/Projects/Grupp/Grupp/obj/Debug/net7.0/Grupp.dll
+/Users/maksimdockin/Projects/Grupp/Grupp/obj/Debug/net7.0/refint/Grupp.dll
+/Users/maksimdockin/Projects/Grupp/Grupp/obj/Debug/net7.0/Grupp.pdb
+/Users/maksimdockin/Projects/Grupp/Grupp/obj/Debug/net7.0/Grupp.genruntimeconfig.cache
+/Users/maksimdockin/Projects/Grupp/Grupp/obj/Debug/net7.0/ref/Grupp.dll
